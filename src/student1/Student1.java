@@ -5,6 +5,7 @@ public class Student1 {
     private String studentId;
     private String studentName;
     private String studentMarks;
+    private String studentSubject;
 
     public Student1(String studentId, String studentName) {
         this.studentId = studentId;
